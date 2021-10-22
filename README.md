@@ -1,4 +1,4 @@
-Challenge : Three different letters 
+#Challenge : Three different letters 
 
 Write a function that accepts two strings, and returns true if they are identical in length but  have no more than three different letters, taking case and string order into account. 
 
