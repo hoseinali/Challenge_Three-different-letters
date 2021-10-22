@@ -2,7 +2,9 @@
 
 Write a function that accepts two strings, and returns true if they are identical in length but  have no more than three different letters, taking case and string order into account. 
 
-Sample input and output 
+
+Sample input and output :
+
 	•	The strings “Clamp” and “Cramp” would return true, because there is one letter difference.  
 	
 	•	The strings “Clamp” and “Crams” would return true, because there are two letter differences.  
